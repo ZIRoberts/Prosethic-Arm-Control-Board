@@ -2,6 +2,8 @@
 
 Here exists all PCB designs and electrical schematics for the DIY Electromyographic Prosethic Arm. All symbols, schematics, footprints, and board layouts are designed in Altium. 
 
+![Orthagional](https://user-images.githubusercontent.com/49044136/205548763-d2f9ed65-401f-4949-8867-830f424eb8a3.png)
+
 # Overview
 
 There is a single board in this sytem and it is broken up into three sections represented by their own respeitive schematic sheet. The first section is microcontroller connections and power regulation. This sheet includes the microcontroller, 5 V Buck Regulator, and two EMI filters for the 3V3 and 5V lines. The MCU used for this project is the ESP32-S2 by Espressiff Systems. This microcontroller was sekected because it was of appropriate size, had appropriate pin count, has a configurable three speed processor (80 MHz, 160 MHz, or 240 MHz), compatable with Arduino libraries, and the creator already had experience using this family of microcontrollers. 
