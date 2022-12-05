@@ -27,7 +27,7 @@ A full list of electronic components can be found in the Bill of Materials.xlsx 
 ![Back copper](https://user-images.githubusercontent.com/49044136/205477662-ded94ca8-ce4d-48af-a675-c6c8e50ff81b.png)
 
 # 3D Render
-## Top
+## Top View
 ![PCB BACK 3D](https://user-images.githubusercontent.com/49044136/205477670-dd9c9b01-b8f1-4e46-ba3c-b9c282a79933.png)
-## Bottom
+## Bottom View
 ![PCB BACK 3D RENDER](https://user-images.githubusercontent.com/49044136/205477678-5a4fa943-6b0f-4d79-8838-1e27ebff38d8.png)
